@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comcydiaappfree002_651432_3384c23c-0f44-44d0-bd5f-4a8d49fb5d8c.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.toolsir.cn/icon/largeImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cydiaapp.free002</string>
+				<key>bundle-version</key>
+				<string>6.5.14.32</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>微信B-更多好玩关注公众号：工具Sir</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
