@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainafree22_651834_20835a8a-738f-55fd-88f1-a76f75f9ff23.ipa</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainafree22_651832_7a25313e-84ce-5c55-a1fa-9cd5b9c6f64e.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.againa.free22</string>
+				<string>com.again.free002</string>
 				<key>bundle-version</key>
-				<string>6.5.18.34</string>
+				<string>6.5.8.32</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
