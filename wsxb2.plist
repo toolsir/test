@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file2/2018/03/23/comxiaobaoxxb05_66332_04b8c2b6-b6cf-5d07-a571-09074bc63425.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.wxxzs.zs2</string>
+				<key>bundle-version</key>
+				<string>6.6.3</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>微商小宝多功能版，后期更新请关注微信公众号：工具Sir</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
